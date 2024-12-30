@@ -46,15 +46,3 @@ let weather = {
   {if (event.key == "Enter")
    {weather.search()}}
    );
-
-
-
-
-
-
-/*NOT WORKING
-  
-  
- ERROR TO RESOLVE 
- Uncaught TypeError: Cannot read properties of   
- null (reading 'addEventListener') line 38*/
