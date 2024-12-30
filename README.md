@@ -36,4 +36,6 @@ git clone https://github.com/your-username/weather-app.git
 
 ## Credits and License
 
-Credits- Weather icons provided by [OpenWeatherMap](https://openweathermap.org/weather-conditions)## LicenseThis project is licensed under the [MIT License](LICENSE).
+Credits - Weather icons provided by [OpenWeatherMap](https://openweathermap.org/weather-conditions)
+
+License - This project is licensed under the [MIT License](LICENSE).
