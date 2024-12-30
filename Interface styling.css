@@ -1,0 +1,67 @@
+body{display:flex;
+      justify-content:center;
+      align-items:center;
+      height:100vh;
+      margin:0;
+      background-color:#ffc000;
+background-image:url('https://source.unsplash.com/?landscape')
+      }
+      
+.weatherbox{color:white;
+      max-width:85vh;
+      padding:2em;
+      margin:1em;:
+      border:1px solid #000000;
+      border-radius:15px;
+      background-color:#000000;}
+      
+.searchpoint{display:flex;
+             justify-content:center;
+             align-items:center;
+             }
+             
+.searchbar{border:1px, solid, #ffc000;
+           border-radius: 7px;
+           outline: none;
+           background-color:white;
+           color:black;
+           height:1.25em;
+           width:13em;
+           margin:0em;
+           padding:2.5px 0px;
+           }
+             
+button{margin:0em 0em 0em 0.8em;
+       outline: none;
+       border:1px solid #ffc000;
+       border-radius:8px;
+       background-color:#ffc000;
+       color:#black;
+       height:1.7em;
+       display:flex;
+       justify-content:center;
+       align-items:center;}
+button:hover{background-color:#ffc00045;
+             border:1px solid #ffc00060;
+             transition:0.2s ease-out;}
+             
+
+.showdesc{display:flex;
+          align-items:center;}
+          
+.loading{visibility:hidden;
+         max-height:20px;
+         ;}
+
+.loading:after{visibility:visible;
+         content:"Loading...";
+         position:relative;
+         bottom:150px;
+         left:85px;}
+         
+
+/* NON FUNCTIONING
+   unsplash image background not showing
+  
+   NON IMPLEMENTED/TOCHANGE
+   search bar icon*/
