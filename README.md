@@ -14,8 +14,10 @@ A simple web application that allows users to search for weather information on 
 - JavaScript
 
 ## API Used
-
 - [OpenWeatherMap API](https://openweathermap.org/api)
+- Technical Details:
+The application makes use of the OpenWeatherMap API to fetch weather data based on user input. The fetched data is then displayed dynamically on the webpage using JavaScript.
+
 
 ## Setup
 
@@ -32,6 +34,6 @@ git clone https://github.com/your-username/weather-app.git
 1. Enter the name of the city you want to check the weather for in the search bar.
 2. Press the "Search" button or hit "Enter" to view the weather information for the specified city.
 
-## Screenshots
+## Credits and License
 
-![Weather App Screenshot][]## DemoYou can view a live demo of the Weather App [here](#).## Credits- Weather icons provided by [OpenWeatherMap](https://openweathermap.org/weather-conditions)## LicenseThis project is licensed under the [MIT License](LICENSE).
+Credits- Weather icons provided by [OpenWeatherMap](https://openweathermap.org/weather-conditions)## LicenseThis project is licensed under the [MIT License](LICENSE).
